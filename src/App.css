@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 body{
+  
+}
+
+h1, p, ul{
   font-family: 'Bitter', serif;
 }
 
